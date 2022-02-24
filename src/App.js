@@ -5,9 +5,8 @@ import TodoApp from "./TodoApp";
 function App() {
   return (
     <div className="App">
-      <h2>dsfdsf</h2>
-      <h2>sdfdsf</h2>
-      <h2>sadfsdfsdf</h2>
+      <h2>jenkisn</h2>
+
       <TodoApp />
     </div>
   );
